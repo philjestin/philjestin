@@ -1,0 +1,13 @@
+{
+  "name": "philjestin",
+  "version": "1.0.0",
+  "description": "Personal tech blog built with gatsby and react",
+  "main": "index.js",
+  "repository": "https://github.com/philjestin/philjestin.git",
+  "author": "Middleton, Philip j <Philip.Middleton@tdameritrade.com>",
+  "license": "MIT",
+  "private": false,
+  "dev-dependencies": {
+    "gatsby-cli": "^2.4.11"
+  }
+}
